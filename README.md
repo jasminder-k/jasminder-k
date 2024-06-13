@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - **Tools and methods**: AGILE, Git, GitHub, NPM
 
 ## REACH ME
-https://jasminder-kaur.vercel.app  www.linkedin.com/in/jasminder-k
+ www.linkedin.com/in/jasminder-k
