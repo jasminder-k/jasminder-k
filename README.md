@@ -20,6 +20,6 @@ Here are some ideas to get you started:
  I have the ability to work both in team and independently. Currently, looking for new and interesting opportunities to use my skills by offering services as a freelancer or a full-time developer.
 
 ## SKILLS AND ABILITIES
-## Front-end: Angular 14, React.js, Javascript and Typescript, HTML, CSS, Bootstrap
-## Back-end: .NET framework 7+, ASP.NET MVC, Unit Testing, .NET core, RESTful Web API, MS SQL SERVER 2016, MongoDB, RavenDB, Express, Node
-## Tools and methods: AGILE, Git, GitHub, NPM
+- **Front-end**: Angular 14, React.js, Javascript and Typescript, HTML, CSS, Bootstrap
+- **Back-end**: .NET framework 7+, ASP.NET MVC, Unit Testing, .NET core, RESTful Web API, MS SQL SERVER 2016, MongoDB, RavenDB, Express, Node
+- **Tools and methods**: AGILE, Git, GitHub, NPM
