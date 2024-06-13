@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - **Front-end**: Angular 14, React.js, Javascript and Typescript, HTML, CSS, Bootstrap
 - **Back-end**: .NET framework 7+, ASP.NET MVC, Unit Testing, .NET core, RESTful Web API, MS SQL SERVER 2016, MongoDB, RavenDB, Express, Node
 - **Tools and methods**: AGILE, Git, GitHub, NPM
+
+## REACH ME
+https://jasminder-kaur.vercel.app  www.linkedin.com/in/jasminder-k
