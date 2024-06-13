@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - **Back-end**: .NET framework 7+, ASP.NET MVC, Unit Testing, .NET core, RESTful Web API, MS SQL SERVER 2016, MongoDB, RavenDB, Express, Node
 - **Tools and methods**: AGILE, Git, GitHub, NPM
 
-## REACH ME
+## CONNECT WITH ME
  www.linkedin.com/in/jasminder-k
